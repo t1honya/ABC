@@ -5,3 +5,6 @@ def div(a,b):
 def umn(a,b):
     c = a*b
     return c
+def summ(a,b):
+    c = a+b
+    return c
